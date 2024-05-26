@@ -1,5 +1,5 @@
 # Cab-Market-Analysis Using Excel
-
+Excel
 Attached in this file are three data sources:
 1) Consumer Panel Data - A sum of Amount(Dollars), Transactions and Users for each City & Company (Pink Cab/Yellow Cab). 
      Example: If 10 people took 15 rides and spent a total of $165 in one week/company/market, the Dollars would be $165, Transactions 15, and Users 10. The Average Selling Price (ASP) would be $165 (Dollars)/ 15 (Transactions) = $11
